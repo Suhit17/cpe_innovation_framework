@@ -1,0 +1,14 @@
+# Virtual Environment 
+venv/ 
+env/ 
+.env 
+ 
+# Python 
+__pycache__/ 
+*.pyc 
+*.log 
+ 
+# Data and models 
+data/ 
+logs/ 
+models/ 
